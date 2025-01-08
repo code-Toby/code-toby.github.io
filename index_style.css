@@ -1,0 +1,33 @@
+body{
+    background-color: #151515;
+}
+
+h1{
+    font-family: "Jersey 15", sans-serif;
+    font-size: 120px;
+    color: #fb7e14;
+}
+
+p{
+    font-family: "Jersey 15", sans-serif;
+    font-size: 50px;
+    color: #ffff;
+}
+
+li{
+    font-family: "Jersey 15", sans-serif;
+    font-size: xx-large;
+    color: #fb7e14;
+}
+
+a:visited{
+    font-family: "Jersey 15", sans-serif;
+    font-size: xx-large;
+    color: #fb7e14;
+}
+
+a:active{
+    font-family: "Jersey 15", sans-serif;
+    font-size: xx-large;
+    color: #ffffff;
+}

@@ -1,11 +1,13 @@
 body{
-    background-color: #151515;
+    background: linear-gradient(to top,#05150c, #0f0f0f);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 h1{
     font-family: "Jersey 15", sans-serif;
-    font-size: 120px;
-    color: #fb7e14;
+     font-size: 110px;
+    color: #20fb14;
 }
 
 p{
@@ -17,13 +19,13 @@ p{
 li{
     font-family: "Jersey 15", sans-serif;
     font-size: xx-large;
-    color: #fb7e14;
+    color: #20fb14;
 }
 
 a:visited{
     font-family: "Jersey 15", sans-serif;
     font-size: xx-large;
-    color: #fb7e14;
+    color: #20fb14;
 }
 
 a:active{

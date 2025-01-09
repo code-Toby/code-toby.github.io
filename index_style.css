@@ -77,7 +77,11 @@ li{
     margin: auto;
     margin-top: 15px;
     width: 600px;
-    height: 200px;
+    height: 300px;
     border-style: groove;
     border-color: #ff6a00;
+}
+
+a:visited{
+    
 }

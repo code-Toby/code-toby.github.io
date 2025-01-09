@@ -1,35 +1,7 @@
-body{
-    background: linear-gradient(to top,#05150c, #0f0f0f);
+body {
+    background: rgb(11,11,11);
+    background: linear-gradient(180deg, rgba(11,11,11,1) 64%, rgba(1,38,15,1) 100%);
     background-repeat: no-repeat;
+    
     background-attachment: fixed;
-}
-
-h1{
-    font-family: "Jersey 15", sans-serif;
-     font-size: 110px;
-    color: #20fb14;
-}
-
-p{
-    font-family: "Jersey 15", sans-serif;
-    font-size: 50px;
-    color: #ffff;
-}
-
-li{
-    font-family: "Jersey 15", sans-serif;
-    font-size: xx-large;
-    color: #20fb14;
-}
-
-a:visited{
-    font-family: "Jersey 15", sans-serif;
-    font-size: xx-large;
-    color: #20fb14;
-}
-
-a:active{
-    font-family: "Jersey 15", sans-serif;
-    font-size: xx-large;
-    color: #ffffff;
 }
